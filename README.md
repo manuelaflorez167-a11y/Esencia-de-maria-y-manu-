@@ -2,8 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Integración de Páginas Web</title>
-    <style> 
-        <p> Creado poe Manuela Florez y Maria Jose Duque.</p>
+    <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
@@ -63,3 +62,4 @@
 
 </body>
 </html>
+
